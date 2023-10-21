@@ -1,0 +1,5 @@
+﻿  해싱.cpp
+c:\users\전지현\desktop\c자료구조\c자료구조\해싱.cpp(322): error C2664: 'Person *MakePersonData(int,char *,char *)': 인수 2을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\전지현\desktop\c자료구조\c자료구조\해싱.cpp(322): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+c:\users\전지현\desktop\c자료구조\c자료구조\해싱.cpp(325): error C2664: 'Person *MakePersonData(int,char *,char *)': 인수 2을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\전지현\desktop\c자료구조\c자료구조\해싱.cpp(325): note: 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
